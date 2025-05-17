@@ -2,3 +2,4 @@ data/
 .virtual_documents/
 birdclef-env/
 110m_cultural/
+*checkpoint.ipynb
